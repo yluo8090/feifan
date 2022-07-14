@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ffplay.video</string>
+				<string>com.12.12</string>
 				<key>bundle-version</key>
 				<string>3.2.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>非凡影音</string>
+				<string>xx应用</string>
 			</dict>
 		</dict>
 	</array>
